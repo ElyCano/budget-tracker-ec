@@ -2,9 +2,12 @@
   "name": "budget-tracker-ec",
   "version": "1.0.0",
   "description": "Budget Tracker",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --watch",
+    "dev": "webpack serve",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
