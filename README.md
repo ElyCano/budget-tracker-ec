@@ -28,7 +28,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## Deployed
 
-Deployed Link [Click here](https://github.com/ElyCano/budget-tracker-ec/blob/main/screenshot/Screenshot%202022-04-11%20184250.png?raw=true).
+Deployed Link [Click here](https://budget-tracker-ec.herokuapp.com/).
 
 ## Table of Contents
 
@@ -52,7 +52,6 @@ Deployed Link [Click here](https://github.com/ElyCano/budget-tracker-ec/blob/mai
 - express
 - mongoose
 - morgan
-- nodemon
 
 ## Starting Application
 
